@@ -1,0 +1,104 @@
+.contact-us-bg{
+    height: 600px;
+    width: 100%;
+}
+
+.contact-us-content{
+    position: relative;
+    border:1px solid black;
+    margin-top: 150px;
+    height: 500px;
+    width: 100%;
+}
+
+.contact-us-logo{
+    position: absolute;
+    top: 30px;
+    left:210px;
+    transform: scale(0.9);
+    height: auto;
+    width: auto;
+}
+
+.contact-us-explore{
+    position: absolute;
+    top: 130px;
+    left: 280px;
+    font-size: 18px;
+}
+.contact-us-explore a{
+    display: block;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.contact-us-contact-us{
+    position: absolute;
+    top: 130px;
+    left: 790px;
+    font-size: 18px;
+}
+
+.contact-us-phone-no{
+    padding-top: 10px;
+}
+
+.contact-name{
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+.contact-us-phone-no img{
+    position: relative;
+    top: 7px;
+    transform: scale(0.8);
+    padding-right: 10px;
+    height: auto;
+    width: auto;
+}
+
+.contact-name a{
+    text-decoration: underline;
+    color: black;
+}
+
+.contact-us-stay-conn{
+    position: absolute;
+    top: 130px;
+    left: 1079px;
+    font-size: 18px;
+}
+.contact-us-linked-in{
+    margin-top: 40px;
+    height: auto;
+    width: auto;
+} 
+img {
+    position: relative;
+    top:3px;
+    margin-right: 15px;
+    height: auto;
+    width: auto;
+} 
+a{
+    text-decoration: underline;
+    color: black;
+    font-size: 15px;
+}
+.contact-us-insta{
+    margin-top: 40px;
+    height: auto;
+    width: auto;
+} 
+img {
+    position: relative;
+    top:3px;
+    margin-right: 15px;
+    height: auto;
+    width: auto;
+} 
+a{
+    text-decoration: underline;
+    color: black;
+    font-size: 15px;
+}
