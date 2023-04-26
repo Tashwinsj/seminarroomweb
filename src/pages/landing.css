@@ -2,6 +2,10 @@
     margin : 0 ; 
      
 }
+.buebox{
+    padding: 20px;
+}
+
 .navbar{
     height: 100px;
     width: 100%;
@@ -273,4 +277,33 @@ border-radius: 0.549395px;
 .first-animation:hover .rect-anim-3{
     transform: translate(-200px,-150px);
     transition: transform 0.7s cubic-bezier(0.68, -0.45, 0.365, 1.55);
+}
+
+
+
+
+.item{
+   height: 70px;   
+}
+.imgs{
+   margin-top: 20px;
+   height: 60px; 
+   width: auto;
+}
+.nitte{
+    margin-top: 30px;
+   
+   height: 50px ;
+   width: auto;
+}
+.naga{
+    margin-top: 20px;
+   height: 70px;
+}
+.alice-carousel{
+
+    height: 190px;
+    background-color: purple;
+    overflow: hidden;
+    
 }

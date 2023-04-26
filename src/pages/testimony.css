@@ -6,6 +6,10 @@
     height: 900px;
     background-color: white;
     --swiper-theme-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
      
 }
 #app {
@@ -107,4 +111,36 @@
    left: 10px;
    top : 0px ; 
    
+}
+.clientlogo{
+  background-color: white; 
+  box-shadow: 1px 1px 9px grey;
+  height: 90px ; 
+  width: 400px;
+  border-radius: 20px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  
+}
+.gt{
+  height: 55px; 
+  width: auto;
+  margin: 20px;
+  margin-top: 10px;
+  margin-left: 60px;
+}
+.surana{
+  height: 55px; 
+  width: auto;
+  margin: 20px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.jain{
+  height: 55px; 
+  width: auto;
+  margin: 20px; 
+  margin-top: 10px;
+  margin-left: 40px;
 }

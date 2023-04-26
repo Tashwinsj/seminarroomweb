@@ -9,7 +9,7 @@ export default function Whorwe(){
              
                 
                <div className="divisions">
-               <img src={hostpic} alt="hostpichere"></img>
+               <img className="picture" src={hostpic} alt="hostpichere"></img>
                </div>
                <div>
                 
