@@ -15,11 +15,11 @@ function App() {
      <Landing/>
      <Whorwe/>
      <OurOfferings/>
-     <Benifits/>
+    <Benifits/>
      <Session/>
      <Meetteam/>
      <Testimony/>
-     <ContactUs/>
+      <ContactUs/>
     </>
   )
 }
